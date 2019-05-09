@@ -20,3 +20,8 @@ TrustEdgeCardMW možete preuzeti sa http://ca.mup.gov.rs/download.html
 4. Preuzmite aplikaciju za E-Poreze: http://www.poreskauprava.gov.rs/sr/e-porezi/portal.html
 
 5. [Opciono] Testiranje. Instalacija aplikacije e-DocSigner. Nakon instaliranja aplikacije e-DocSigner možete digitalno potpisati bilo koji elektronski dokument ličnom kartom sa čipom tj. elektronskim sertifikatom za digitalni potpis i na taj način proveriti da li su sve potrebne komponente za digitalno potpisivanje pravilno instalirane. Aplikaciju možete preuzeti sa http://ca.mup.gov.rs/download.html
+
+## OfficeBanking BancaIntesa aplikacija
+
+Link za download: http://bancaintesa.rs/upload/documents/elektronsk_bankarstvo/InstalacijaOfficeBanking-WinALL.exe
+Update koji je često potreban: http://update.24x7.rs/OfficeBanking/x86/OfficeBanking_Desktop.application
