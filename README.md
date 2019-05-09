@@ -32,3 +32,11 @@ Batica [Goran Rakic](https://github.com/grakic) je napravio alternativne verzije
 
 * [Link](http://bancaintesa.rs/upload/documents/elektronsk_bankarstvo/InstalacijaOfficeBanking-WinALL.exe) za download aplikacije ([Uputstvo za instalaciju](https://github.com/Aracki/porezi/blob/master/Uputstvo_za_instalaciju_Office_Banking_aplikacije.pdf))
 * Update koji je često potreban: http://update.24x7.rs/OfficeBanking/x86/OfficeBanking_Desktop.application
+
+## Greška kada poziv na broj ne sme da bude duži od 15 cifara
+
+1. Obrisati C:/Users/Raca/AppData/Roaming/Pexim Solutions/OfficeBanking/UserSettings
+2. Ući u OfficeBanking aplikaciju
+3. Podešavanja/RUJP validacija:
+    1. Prvo staviti da prijavljuje kao grešku
+    2. Zatim vratiti da prijavljuje kao obaveštenje
