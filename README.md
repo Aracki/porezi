@@ -23,5 +23,5 @@ TrustEdgeCardMW možete preuzeti sa http://ca.mup.gov.rs/download.html
 
 ## OfficeBanking BancaIntesa aplikacija
 
-Link za download: http://bancaintesa.rs/upload/documents/elektronsk_bankarstvo/InstalacijaOfficeBanking-WinALL.exe
-Update koji je često potreban: http://update.24x7.rs/OfficeBanking/x86/OfficeBanking_Desktop.application
+* [Link](http://bancaintesa.rs/upload/documents/elektronsk_bankarstvo/InstalacijaOfficeBanking-WinALL.exe) za download aplikacije ([Uputstvo za instalaciju](https://github.com/Aracki/porezi/blob/master/Uputstvo_za_instalaciju_Office_Banking_aplikacije.pdf))
+* Update koji je često potreban: http://update.24x7.rs/OfficeBanking/x86/OfficeBanking_Desktop.application
