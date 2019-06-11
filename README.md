@@ -40,3 +40,16 @@ Batica [Goran Rakic](https://github.com/grakic) je napravio alternativne verzije
 3. Podešavanja/RUJP validacija:
     1. Prvo staviti da prijavljuje kao grešku
     2. Zatim vratiti da prijavljuje kao obaveštenje
+    
+## Greška: Valuta je u prošlosti
+
+OfficeBanking BancaIntesa aplikacija nakon potpisanih naloga javlja grešku:
+```
+Code Error Code:2014 Valuta je u prošlosti!
+PPInstrumenti.PopuniPoljaZaInsert
+SprovediPPInstrument
+```
+Ako se nalozi potpišu nakon vremena rada banke, mora da se stavi sutrašnji dan za valutu.
+
+- do 17h eksterni prenosi
+- do 19h interni prenosi
